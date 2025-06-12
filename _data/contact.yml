@@ -2,17 +2,15 @@
 
 - type: github
   icon: "fab fa-github"
-
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+  url: https://github.com/Akram-Dwf
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  url: "mailto:akramtamir12@gmail.com"
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: instagram
+  icon: "fas fa-instagram"
+  url: "https://www.instagram.com/akrm_dwf"
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
