@@ -5,11 +5,11 @@
   url: https://github.com/Akram-Dwf
 
 - type: email
-  icon: "fas fa-envelope"
+  icon: "fa-solid fa-envelope"
   url: "mailto:akramtamir12@gmail.com"
 
 - type: instagram
-  icon: "fas fa-instagram"
+  icon: "fa-brands fa-square-instagram"
   url: "https://www.instagram.com/akrm_dwf"
 # Uncomment and complete the url below to enable more contact options
 #
